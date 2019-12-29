@@ -1,2 +1,2 @@
 # SalesPrediction
-Sales prediction fro Kaggle
+Sales prediction from Kaggle
